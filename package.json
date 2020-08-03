@@ -1,6 +1,6 @@
 {
 	"name": "yoga-layout-prebuilt-low-memory",
-	"version": "1.9.6",
+	"version": "1.9.7",
 	"description": "Prebuilt yoga-layout package",
 	"license": "MIT",
 	"repository": "vadimdemedes/yoga-layout-prebuilt",
@@ -16,7 +16,6 @@
 		"test": "xo && ava"
 	},
 	"main": "yoga-layout/dist/entry-browser",
-	"types": "index.d.ts",
 	"files": [
 		"yoga-layout",
 		"index.d.ts"
