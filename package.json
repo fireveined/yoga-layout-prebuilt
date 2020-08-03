@@ -1,5 +1,5 @@
 {
-	"name": "yoga-layout-prebuilt",
+	"name": "yoga-layout-prebuilt-low-memory",
 	"version": "1.9.6",
 	"description": "Prebuilt yoga-layout package",
 	"license": "MIT",
@@ -13,8 +13,7 @@
 		"node": ">=8"
 	},
 	"scripts": {
-		"test": "xo && ava",
-		"prepublishOnly": "./build.sh"
+		"test": "xo && ava"
 	},
 	"main": "yoga-layout/dist/entry-browser",
 	"types": "index.d.ts",
