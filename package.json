@@ -1,14 +1,8 @@
 {
 	"name": "yoga-layout-prebuilt-low-memory",
-	"version": "1.9.7",
+	"version": "1.9.11",
 	"description": "Prebuilt yoga-layout package",
 	"license": "MIT",
-	"repository": "vadimdemedes/yoga-layout-prebuilt",
-	"author": {
-		"name": "Vadim Demedes",
-		"email": "vdemedes@gmail.com",
-		"url": "github.com/vadimdemedes"
-	},
 	"engines": {
 		"node": ">=8"
 	},
